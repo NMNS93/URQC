@@ -2,6 +2,8 @@
 Calculate average grayscale pixel intensity values from a curved linear ultrasound image of in-air reverberation 
 patterns.
 
+**Write-up**: [UltrasoundReverbDoc.pdf](UltrasoundReverbDoc.pdf)
+
 **Usage**: python3 UltrasoundReverbQC.py input(s)
 
 <br>
